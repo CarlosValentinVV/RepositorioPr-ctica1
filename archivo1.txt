@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificacion desde main
+=======
+Texto modificado desde la Rama Funcionalidad
+>>>>>>> 8633112c6dc228b68886fc72c7411cc70f2a4348
