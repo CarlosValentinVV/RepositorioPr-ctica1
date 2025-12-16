@@ -1,1 +1,1 @@
-Adicion de informacion para archivo1
+Texto modificado desde la Rama Funcionalidad
